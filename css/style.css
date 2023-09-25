@@ -2,24 +2,28 @@
   font-family: sans-serif;
   font-size: 18px;
   margin: 10px 15px;
-  color: blue;
-  background-color: bisque;
+  color: bisque;
+  background-color: rgb(153, 158, 170);
 }
 
 h1 {
-  font-size: 20px;
-  color: blueviolet;
+  font-size: 40px;
+  color: #334445;
   text-align: center;
   margin: 10px auto;
 }
 
 p {
-  color: yellowgreen;
+  color: rgb(216, 185, 135);
+}
+
+strong {
+color: bisque
 }
 
 h2 {
   font-size: 15px;
-  color: burlywood;
+  color: #334445;
   margin: 20px;
 }
 
