@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 10px 15px;
+  color: blue;
+}
+
+h1 {
+  font-size: 20px;
+  color: blueviolet;
+  text-align: center;
+  margin: 10px auto;
+}
+
+p {
+  color: yellowgreen;
+}
+
+h2 {
+  font-size: 15px;
+  color: burlywood;
+  margin: 20px;
+}
+
+ul {
+  margin: 20px;
+}
