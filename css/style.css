@@ -11,6 +11,10 @@ h1 {
   color: #334445;
   text-align: center;
   margin: 10px auto;
+  margin-bottom: 50px;
+  border-bottom: 5px solid slategrey;
+  height: 50px;
+  font-style: italic;
 }
 
 p {
@@ -22,9 +26,10 @@ color: rgb(231, 214, 192);
 }
 
 h2 {
-  font-size: 15px;
+  font-size: 21px;
   color: #334445;
   margin: 20px;
+  margin-top: 45px;
 }
 
 ul {
