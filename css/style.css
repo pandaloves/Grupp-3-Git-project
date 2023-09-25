@@ -3,7 +3,7 @@
   font-size: 18px;
   margin: 10px 10px;
   color: bisque;
-  background-color: rgb(153, 158, 170);
+  background-color: rgb(154, 151, 151);
 }
 
 h1 {
@@ -18,7 +18,7 @@ p {
 }
 
 strong {
-color: red
+color: rgb(231, 214, 192);
 }
 
 h2 {
